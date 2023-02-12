@@ -7,6 +7,8 @@ LanceCell It is a freelancing website for submitting applications by programmers
  * Spring Boot
  * Spring Security
  * Bootstrap
+ * SQLite
+ * ORM
  
 
 ## Features:
