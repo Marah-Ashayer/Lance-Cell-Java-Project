@@ -4,8 +4,10 @@
 LanceCell It is a freelancing website for submitting applications by programmers in order to participate in projects that were put forward by entrepreneurs(Users) within the site , It aims to facilitate the lives of programmers and website owners and make communication between them easier and more secure . LanceCell aims to empower users with the most accurate and comprehensive information related to the project.Within the site, the registered programmer will choose the proposed projects according to the programming languages that he masters and prefers, and he will submit his request to the project owner (the user), then he will wait until it is approved by the project owner.Later, communication takes place between the entire team in order to distribute tasks among them .The site will be controlled by an admin, to verify the users, their capabilities, their previous projects and Cv's .
 
 ## Technologies Used : 
- * SpringToolSuite
+ * Spring Boot
+ * Spring Security
  * Bootstrap
+ 
 
 ## Features:
 * Login and Registeration	ability for the user to login/registeration as owner of the project or programmer
